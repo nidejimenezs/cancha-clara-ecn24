@@ -62,4 +62,5 @@ Se eligió Angular 20 para una base estable y coherente con el alcance introduct
 
 ## Verificación y límites
 
-Ver `docs/guia-tecnica.md` y `docs/evidencia/`. Los rechazos de datos inválidos se documentan como pruebas controladas. Los datos se reinician en cada ejecución. Una versión multiusuario necesitará validaciones en la API y control atómico de disponibilidad en la base de datos.
+Ver `docs/guia-visual.pdf` y `docs/evidencia/`. Los rechazos de datos inválidos se documentan como pruebas controladas. Los datos se reinician en cada ejecución. Una versión multiusuario necesitará validaciones en la API y control atómico de disponibilidad en la base de datos.
+

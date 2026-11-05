@@ -1,0 +1,8 @@
+CANCHA CLARA | Demostración de TypeScript
+Reservas guardadas: 1
+Reserva: Cancha Norte
+Estado: pendiente
+Regular: 36000 CRC
+Promoción del 10 %: 32400 CRC
+Prueba negativa: Tarifa inválida.
+El programa continúa después del caso controlado.

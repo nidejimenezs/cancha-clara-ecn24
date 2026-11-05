@@ -1,0 +1,14 @@
+✔ reservas consecutivas permitidas y cruces rechazados (1.3213ms)
+✔ horario dentro de apertura, sin fracciones ni mantenimiento (1.1063ms)
+✔ correo único normalizado y cliente activo con límite diario (0.4828ms)
+✔ total, relaciones y fechas imposibles (3.8994ms)
+✔ abonos exactos y rechazo de sobrepago, duplicados o referencias vacías (0.4252ms)
+✔ repositorio evita ids repetidos y no expone su arreglo (0.3569ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 128.7802

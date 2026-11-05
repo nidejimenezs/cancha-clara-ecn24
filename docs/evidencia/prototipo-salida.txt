@@ -1,0 +1,17 @@
+CANCHA CLARA | Prototipo del Avance 1
+Datos: 5 canchas, 5 clientes, 5 reservas, 5 pagos.
+C1. Canchas activas de fútbol: Cancha Norte, Cancha Sur
+C2. Horario 18-19 válido: true
+CL1. Correo ANA@example.com disponible: false
+CL2. Ana puede reservar: true
+R1. Cancha Norte 19-20 disponible: true
+R2. Total de R01 en CRC: 18000
+P1. Saldo R03 en CRC: 5000
+P2. Abono de 6000 para R03 válido: false
+Repositorio: registros tras agregar: 6
+Repositorio: buscar R06: pendiente
+Repositorio: pendientes: 4
+Repositorio: eliminar R06: true
+Polimorfismo: cotizaciones de 2 horas en CRC: 36000 / 32400
+Caso controlado: La cancha ya está reservada en ese horario.
+Fin: las ocho reglas fueron demostradas.
