@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f6f5ef; color: #202b27; font-family: Arial, sans-serif; }
+h1, h2, p { margin-top: 0; } a { color: inherit; }
+:focus-visible { outline: 3px solid #bd6d35; outline-offset: 5px; }

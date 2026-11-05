@@ -1,0 +1,1 @@
+footer{display:flex;justify-content:space-between;gap:20px;padding:24px max(28px,calc((100vw - 1064px)/2));border-top:1px solid #d7dcd2;font-size:12px;color:#687269;} @media(max-width:600px){footer{flex-direction:column;}}
